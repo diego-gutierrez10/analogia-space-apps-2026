@@ -6,6 +6,12 @@
 
 ANALOG(IA) ranks every arid, uninhabited 5 km patch of land on Earth by how closely its terrain matches a given site on Mars. It then groups the best matches into distinct field regions. We applied it to six sites: Jezero, Gale, Eberswalde, Holden, Saheki and the Olympus Mons caldera.
 
+## Demo video
+
+[![ANALOG(IA) demo video](https://img.youtube.com/vi/_Wqa1-u341w/hqdefault.jpg)](https://youtu.be/_Wqa1-u341w)
+
+▶️ [Watch the demo on YouTube](https://youtu.be/_Wqa1-u341w)
+
 ## Results at a glance
 
 | Mars site | Best Earth analog | Gower distance | Similarity |
