@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+Dataset/*.zip
+Dataset/world_integrated_clean_albedo_lst.csv
+Website/marte-web/assets/*.ttf

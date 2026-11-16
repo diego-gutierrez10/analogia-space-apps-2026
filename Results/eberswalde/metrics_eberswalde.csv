@@ -1,0 +1,2 @@
+n_clusters,noise_pct,silhouette_haversine,davies_bouldin_ecef,gower_mean
+17,16.0,0.659538159849122,0.38723703592658787,0.10550544052706032
