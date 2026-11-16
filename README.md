@@ -8,9 +8,9 @@ ANALOG(IA) ranks every arid, uninhabited 5 km patch of land on Earth by how clos
 
 ## Demo video
 
-[![ANALOG(IA) demo video](https://img.youtube.com/vi/_Wqa1-u341w/hqdefault.jpg)](https://youtu.be/_Wqa1-u341w)
+[![ANALOG(IA) demo video](https://img.youtube.com/vi/Awp1Njc7Y9g/hqdefault.jpg)](https://youtu.be/Awp1Njc7Y9g)
 
-▶️ [Watch the demo on YouTube](https://youtu.be/_Wqa1-u341w)
+▶️ [Watch the demo on YouTube](https://youtu.be/Awp1Njc7Y9g)
 
 ## Results at a glance
 
